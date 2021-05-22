@@ -1,5 +1,5 @@
 # Barebone OS
-> For tiny or something to build
+> tiny, simple OS for something to build
 
 ## Struct
 - boot: bootsector
