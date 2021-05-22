@@ -56,3 +56,12 @@ Mkfile.old
 dkms.conf
 
 # End of https://www.toptal.com/developers/gitignore/api/c
+
+
+# IDE
+.vscode
+boot/*.bin
+cpu/*.bin
+kernel/*.bin
+libc/*.bin
+kernel.bin
